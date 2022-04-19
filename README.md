@@ -15,7 +15,7 @@ The Project Features:
 # Upon user Connect to Specific Database, there will be new Screen with this Menu: 
 
 <br>- Create Table  
-<br>- List Tables 
+- List Tables 
 <br>- Drop Table 
 <br>- Insert into Table 
 <br>- Select From Table 
