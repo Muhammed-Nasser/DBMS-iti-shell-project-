@@ -14,10 +14,10 @@ The Project Features:
 <br>
 # Upon user Connect to Specific Database, there will be new Screen with this Menu: 
 
-<br>- Create Table  
+- Create Table  
 - List Tables 
-<br>- Drop Table 
-<br>- Insert into Table 
-<br>- Select From Table 
-<br>- Delete From Table 
-<br>- Update Table
+- Drop Table 
+- Insert into Table 
+- Select From Table 
+- Delete From Table 
+- Update Table
